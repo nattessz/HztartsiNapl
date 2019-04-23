@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bevet">" Finances"</string>
+    <string name="kiad">Expenditures</string>
+    <string name="app_name">Household Log</string>
+</resources>
